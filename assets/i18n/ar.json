@@ -1,0 +1,17 @@
+{
+    "Home": "الرئيسية",
+    "Categories": "الفئات",
+    "Brands": "براند",
+    "Cart": "التسوق",
+    "Product": "النتجات",
+    "login": "دخول",
+    "WishList": "المفضلة",
+    "SignOut": "خروج",
+    "register": "تسجيل حساب",
+    "Search": "بحث",
+    "Contact": "اتصال",
+    "CartEmpty": "عربة التسوق فارغة",
+    "CartTotal": "الحساب الكلى",
+    "Payment": "الدفع",
+    "Clear Cart": "مسح عربة التسوق"
+}

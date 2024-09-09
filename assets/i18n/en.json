@@ -1,0 +1,17 @@
+{
+    "Home": "Home",
+    "Categories": "Categories",
+    "Brands": "Brands",
+    "Cart": "Cart",
+    "Product": "Product",
+    "Login": "Login",
+    "SignOut": "SignOut",
+    "Register": "Register",
+    "Search": "Search",
+    "Contact": "اتصال",
+    "CartEmpty": "CartEmpty",
+    "CartTotal": "CartTotal",
+    "Payment": "Payment",
+    "Clear Cart": "Clear Cart",
+    "WishList": "WishList"
+}
